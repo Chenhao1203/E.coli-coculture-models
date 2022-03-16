@@ -1,6 +1,6 @@
 All models were built in Python 3. The three files in '.py' format each represent the three growth models.
 
-Run the following files in Python 3 with sympy,numpy,pandas and pickle library.
+Run the following files in Python 3 with sympy,numpy,pandas,OS and pickle library.
 
 '1. independent growth.py' 
 	to generate indepentent growth co-culture model with different μm2.
